@@ -4,42 +4,39 @@
 
 除了本隐私政策以外，我们还针对某些会要求使用你的个人信息的功能，在我们的产品中嵌入了数据和隐私信息 (与我们的数据和隐私图标相关联)。你在启用这些功能之前，可以先在“设置”中查看与这些功能相关的隐私信息和/或访问我们的网站在线查看。请花些时间熟悉我们针对客户隐私的做法，如有任何疑问，请联系我们。
 
-### 个人信息的收集和使用
+### 我们收集哪些个人信息
 
-1.我们收集哪些个人信息
-1.我们如何使用你的个人信息
-1.并非收集自你的个人信息来源
+您向我们直接提供的信息：
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+注册登陆账号时需要使用的邮箱及相关信息。
 
-```markdown
-Syntax highlighted code block
+分析信息：
 
-# Header 1
-## Header 2
-### Header 3
+我们使用第三方分析工具帮助衡量服务的流量和使用趋势。这些工具会收集通过您的设备或我们的服务（包括您访问的网页、附加组件）发送的信息，以及帮助我们改善服务的其他信息。我们收集这类分析信息，并结合从其他用户收集的分析信息使用，以便这类信息无法用于识别任何具体个人用户。
 
-- Bulleted
-- List
+日志文件信息：
 
-1. Numbered
-2. List
+您每次请求访问网页或应用程序时，您的浏览器均会自动报告日志文件信息。当网页内容或应用程序下载到您的浏览器或设备时，也会提供日志文件信息。 当您使用我们的“服务”时，我们的服务器会自动记录某些日志文件信息，包括您的网络请求、互联网协议（以下简称“IP”）地址、浏览器类型、引用/退出网页和网址、点击次数，以及与服务上的链接、域名、登陆页面、查看的页面和其他此类信息互动的方式。我们还会从发送给我们的用户的电子邮件中收集类似信息，这些信息有助于我们跟踪收件人打开了哪些电子邮件和点击了哪些链接。这些信息有助于更准确地报告和改进服务。
 
-**Bold** and _Italic_ and `Code` text
+设备标识符：
 
-[Link](url) and ![Image](src)
-```
+当您使用移动设备（如平板电脑或手机）访问我们的“服务”时，我们可能在您的设备上执行访问、收集、监控、存储操作，或远程存储一个或多个“设备标识符”。设备标识符是在您的移动设备上存储或与之相关联的小数据文件或类似数据结构，用作您的移动设备的唯一标识。设备标识符可能是与设备硬件相关的存储数据、与设备操作系统或其他软件相关的存储数据或 Instagram 发送到设备的数据。 设备标识符可以向我们或第三方合作伙伴提供有关您如何浏览和使用“服务”的信息并帮助我们或他方提供报告或个性化内容和广告。如果设备标识符的使用或可用性受损或被禁用，“服务”的某些功能可能无法正常工作。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 我们如何使用你的个人信息
 
-### 非个人信息的收集和使用
+除了我们在本“隐私权政策”中描述的某些具体信息使用方法，我们还可将收到的信息用于：
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/0Entropy/0Entropy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+帮助您在登录后有效访问您的信息 信息记忆，使您不必在访问过程中或下次访问“服务”时再次输入 为您和他人提供个性化内容和信息，包括在线广告或其他形式的营销 提供、改善、测试和监控我们“服务”的有效性 开发和测试新产品和功能 监控访客总数、流量和人口统计信息等指标 诊断或解决技术问题
 
 ### 向第三方披露
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+我们不会向任何公司或者个人出借或出售您的信息。
 
-### 个人信息的保护
+### 如何联系我们
 
+任何问题都可以通过邮箱来联系我。
+
+### 关于我们的“隐私权政策”的更改
+
+我们可能不定期修改或更新本“隐私权政策”，请定期查阅。我们可能在适当环境下为您提供其他形式的修改或更新声明。在本“隐私权政策”做出任何修改后，您继续使用本应用 或“服务”即表示您接受此类修改。
 
