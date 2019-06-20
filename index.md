@@ -6,6 +6,10 @@
 
 ### 个人信息的收集和使用
 
+1.我们收集哪些个人信息
+1.我们如何使用你的个人信息
+1.并非收集自你的个人信息来源
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
