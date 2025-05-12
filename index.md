@@ -1,42 +1,68 @@
-## 隐私政策
+## Privacy Policy
 
-我们非常重视你的隐私。因此我们制定了涵盖如何收集、使用、披露、转让以及存储你的信息的隐私政策。
+**Shimairen** built the **Toy-Tailor** app as a Commercial app. This Service is provided by **Shimairen** and is intended for use as is.
 
-除了本隐私政策以外，我们还针对某些会要求使用你的个人信息的功能，在我们的产品中嵌入了数据和隐私信息 (与我们的数据和隐私图标相关联)。你在启用这些功能之前，可以先在“设置”中查看与这些功能相关的隐私信息和/或访问我们的网站在线查看。请花些时间熟悉我们针对客户隐私的做法，如有任何疑问，请联系我们。
+This page informs website visitors about our policies regarding the collection, use, and disclosure of Personal Information if they decide to use our Service.
 
-### 我们收集哪些个人信息
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The personal information that we collect is used to provide and improve the service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-您向我们直接提供的信息：
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at **Toy-Tailor**, unless otherwise defined in this Privacy Policy.
 
-注册登陆账号时需要使用的邮箱及相关信息。
+### Information Collection and Use
 
-分析信息：
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to IP address, Mobile advertising ID, username, and customer-created data. We will retain the information that we request and use it as described in this privacy policy.
 
-我们使用第三方分析工具帮助衡量服务的流量和使用趋势。这些工具会收集通过您的设备或我们的服务（包括您访问的网页、附加组件）发送的信息，以及帮助我们改善服务的其他信息。我们收集这类分析信息，并结合从其他用户收集的分析信息使用，以便这类信息无法用于识别任何具体个人用户。
+The app uses third-party services that may collect information to identify you.
 
-日志文件信息：
+Link to the privacy policy of third-party service providers used by the app
 
-您每次请求访问网页或应用程序时，您的浏览器均会自动报告日志文件信息。当网页内容或应用程序下载到您的浏览器或设备时，也会提供日志文件信息。 当您使用我们的“服务”时，我们的服务器会自动记录某些日志文件信息，包括您的网络请求、互联网协议（以下简称“IP”）地址、浏览器类型、引用/退出网页和网址、点击次数，以及与服务上的链接、域名、登陆页面、查看的页面和其他此类信息互动的方式。我们还会从发送给我们的用户的电子邮件中收集类似信息，这些信息有助于我们跟踪收件人打开了哪些电子邮件和点击了哪些链接。这些信息有助于更准确地报告和改进服务。
+  [Google](https://policies.google.com/privacy)
+  
+  [Apple](https://www.apple.com/legal/privacy/)
 
-设备标识符：
+If you do not want us to collect the aforementioned data, please uninstall this application. We cannot function properly without your consent.
 
-当您使用移动设备（如平板电脑或手机）访问我们的“服务”时，我们可能在您的设备上执行访问、收集、监控、存储操作，或远程存储一个或多个“设备标识符”。设备标识符是在您的移动设备上存储或与之相关联的小数据文件或类似数据结构，用作您的移动设备的唯一标识。设备标识符可能是与设备硬件相关的存储数据、与设备操作系统或其他软件相关的存储数据或 Instagram 发送到设备的数据。 设备标识符可以向我们或第三方合作伙伴提供有关您如何浏览和使用“服务”的信息并帮助我们或他方提供报告或个性化内容和广告。如果设备标识符的使用或可用性受损或被禁用，“服务”的某些功能可能无法正常工作。
+### Log Data
 
-### 我们如何使用你的个人信息
+We want to inform you that whenever you use our Service, in case of an error in the app, we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device's Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
-除了我们在本“隐私权政策”中描述的某些具体信息使用方法，我们还可将收到的信息用于：
+### Cookies
 
-帮助您在登录后有效访问您的信息 信息记忆，使您不必在访问过程中或下次访问“服务”时再次输入 为您和他人提供个性化内容和信息，包括在线广告或其他形式的营销 提供、改善、测试和监控我们“服务”的有效性 开发和测试新产品和功能 监控访客总数、流量和人口统计信息等指标 诊断或解决技术问题
+Cookies are small data files commonly used as anonymous unique identifiers. They are sent to your browser from the websites you visit and stored on your device's internal memory.
 
-### 向第三方披露
+This Service does not explicitly use these “cookies.” However, the app may use third-party code and libraries that use “cookies” to collect information and improve its services. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
-我们不会向任何公司或者个人出借或出售您的信息。
+### Service Providers
 
-### 如何联系我们
+We may employ third-party companies and individuals for the following reasons:
 
-任何问题都可以通过邮箱来联系我。
+  * To facilitate our Service;
+  * To provide the Service on our behalf;
+  * To perform Service-related services; or
+  * To assist us in analyzing how our Service is used.
 
-### 关于我们的“隐私权政策”的更改
+We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-我们可能不定期修改或更新本“隐私权政策”，请定期查阅。我们可能在适当环境下为您提供其他形式的修改或更新声明。在本“隐私权政策”做出任何修改后，您继续使用本应用 或“服务”即表示您接受此类修改。
+### Security
 
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+### Links to Other Sites
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+### Children’s Privacy
+
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If we discover that a child under 13 has provided us with personal information, we immediately delete it from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we can take necessary action.
+
+### Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+### Remove Data
+
+To remove consent, please send an email with "Remove me" subject to the following address: impression.cs@gmail.com
+
+### Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us: impression.cs@gmail.com.
