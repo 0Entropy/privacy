@@ -19,6 +19,8 @@ Link to the privacy policy of third-party service providers used by the app
   [Google](https://policies.google.com/privacy)
   
   [Apple](https://www.apple.com/legal/privacy/)
+  
+  [Unity DPA](https://unity.com/legal/unity-data-processing-addendum-dpa)
 
 If you do not want us to collect the aforementioned data, please uninstall this application. We cannot function properly without your consent.
 
